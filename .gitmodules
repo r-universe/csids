@@ -8,6 +8,11 @@
 	url = https://github.com/csids/csdata
 	shallow = true
 	registered = true
+[submodule "cstime"]
+	path = cstime
+	url = https://github.com/csids/cstime
+	shallow = true
+	registered = true
 [submodule "csutil"]
 	path = csutil
 	url = https://github.com/csids/csutil
