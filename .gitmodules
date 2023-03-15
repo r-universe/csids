@@ -3,9 +3,24 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "csdata"]
+	path = csdata
+	url = https://github.com/csids/csdata
+	shallow = true
+	registered = true
 [submodule "csmaps"]
 	path = csmaps
 	url = https://github.com/csids/csmaps
+	shallow = true
+	registered = true
+[submodule "cstime"]
+	path = cstime
+	url = https://github.com/csids/cstime
+	shallow = true
+	registered = true
+[submodule "csutil"]
+	path = csutil
+	url = https://github.com/csids/csutil
 	shallow = true
 	registered = true
 [submodule "org"]
@@ -16,20 +31,5 @@
 [submodule "plnr"]
 	path = plnr
 	url = https://github.com/csids/plnr
-	shallow = true
-	registered = true
-[submodule "csutil"]
-	path = csutil
-	url = https://github.com/csids/csutil
-	shallow = true
-	registered = true
-[submodule "csdata"]
-	path = csdata
-	url = https://github.com/csids/csdata
-	shallow = true
-	registered = true
-[submodule "cstime"]
-	path = cstime
-	url = https://github.com/csids/cstime
 	shallow = true
 	registered = true

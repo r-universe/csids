@@ -1,6 +1,18 @@
 [
   {
+    "package": "csdata",
+    "oncran": true
+  },
+  {
     "package": "csmaps",
+    "oncran": true
+  },
+  {
+    "package": "cstime",
+    "oncran": true
+  },
+  {
+    "package": "csutil",
     "oncran": true
   },
   {
@@ -9,18 +21,6 @@
   },
   {
     "package": "plnr",
-    "oncran": true
-  },
-  {
-    "package": "csutil",
-    "oncran": true
-  },
-  {
-    "package": "csdata",
-    "oncran": true
-  },
-  {
-    "package": "cstime",
     "oncran": true
   }
 ]
