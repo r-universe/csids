@@ -13,6 +13,11 @@
 	url = https://github.com/csids/csmaps
 	shallow = true
 	registered = true
+[submodule "cstidy"]
+	path = cstidy
+	url = https://github.com/csids/cstidy
+	shallow = true
+	registered = true
 [submodule "cstime"]
 	path = cstime
 	url = https://github.com/csids/cstime
