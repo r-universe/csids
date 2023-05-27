@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "covidnor"]
+	path = covidnor
+	url = https://github.com/csids/covidnor
+	shallow = true
+	registered = true
 [submodule "csdata"]
 	path = csdata
 	url = https://github.com/csids/csdata
