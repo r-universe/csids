@@ -8,6 +8,11 @@
 	url = https://github.com/csids/covidnor
 	shallow = true
 	registered = true
+[submodule "csalert"]
+	path = csalert
+	url = https://github.com/csids/csalert
+	shallow = true
+	registered = true
 [submodule "csdata"]
 	path = csdata
 	url = https://github.com/csids/csdata
