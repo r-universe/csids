@@ -11,6 +11,9 @@
 [submodule "csdata"]
 	path = csdata
 	url = https://github.com/csids/csdata
+[submodule "csdb"]
+	path = csdb
+	url = https://github.com/csids/csdb
 [submodule "csmaps"]
 	path = csmaps
 	url = https://github.com/csids/csmaps
