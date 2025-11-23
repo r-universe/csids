@@ -29,6 +29,3 @@
 [submodule "org"]
 	path = org
 	url = https://github.com/csids/org
-[submodule "plnr"]
-	path = plnr
-	url = https://github.com/csids/plnr
