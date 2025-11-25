@@ -26,6 +26,3 @@
 [submodule "csutil"]
 	path = csutil
 	url = https://github.com/csids/csutil
-[submodule "org"]
-	path = org
-	url = https://github.com/csids/org
