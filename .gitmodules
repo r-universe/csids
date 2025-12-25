@@ -5,24 +5,3 @@
 [submodule "covidnor"]
 	path = covidnor
 	url = https://github.com/csids/covidnor
-[submodule "csalert"]
-	path = csalert
-	url = https://github.com/csids/csalert
-[submodule "csdata"]
-	path = csdata
-	url = https://github.com/csids/csdata
-[submodule "csdb"]
-	path = csdb
-	url = https://github.com/csids/csdb
-[submodule "csmaps"]
-	path = csmaps
-	url = https://github.com/csids/csmaps
-[submodule "cstidy"]
-	path = cstidy
-	url = https://github.com/csids/cstidy
-[submodule "cstime"]
-	path = cstime
-	url = https://github.com/csids/cstime
-[submodule "csutil"]
-	path = csutil
-	url = https://github.com/csids/csutil
